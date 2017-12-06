@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (In your own words, briefly describe the assignment.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bohnsackd.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
